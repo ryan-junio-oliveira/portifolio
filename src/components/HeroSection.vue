@@ -25,7 +25,7 @@ export default {
         new TypeIt("#typing-effect", {
             strings: ["I'M A DEVELOPER","GRADUATED IN MANAGEMENT", "INFORMATION TECHNOLOGY"],
             speed: 100,
-            breakLines: false,
+            breakLines: true,
             loop: false,
             deleteSpeed: 50,
             nextStringDelay: [500, 1000],
