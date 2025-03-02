@@ -8,3 +8,7 @@ body{
     background-color: #f3f4f6;
     color: #333;
 }
+
+.code-font{
+    font-family: 'Source Code Pro', monospace;
+}
