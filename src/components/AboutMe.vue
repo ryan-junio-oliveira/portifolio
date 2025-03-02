@@ -13,7 +13,7 @@
             </p>
 
             <!-- Icons Section -->
-            <div class="flex justify-center space-x-8 text-lg grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
+            <div class="flex justify-center space-x-8 text-lg grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
                 <div class="flex flex-col items-center">
                     <i class="fas fa-code text-4xl text-orange-500 mb-2"></i>
                     <p>Web Development</p>
